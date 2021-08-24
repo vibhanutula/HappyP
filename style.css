@@ -1,0 +1,22 @@
+.Body-Back{
+    background-image: url("View.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aquamarine;
+}
+
+#myCanvas{
+    border: 3px aquamarine dashed;
+    margin-left: 450px;
+}
+
+#Play{
+    height: 45;
+    width: 150;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aquamarine;
+    background-color: rgb(90, 61, 255);
+    cursor: pointer;
+}
